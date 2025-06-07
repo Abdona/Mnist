@@ -1,4 +1,4 @@
-# data preprocessing, cleaning, and applying Linear Regression
+# MNIST
 
 > Visualize using matplotlib.
 > Apply Logistic Regression, Support vector classifier, and Neural network, and compare their execution time as well as accuracy.
